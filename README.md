@@ -13,7 +13,7 @@ Screenshots:
 
 2.Capturing first name
 
-![image](https://user-images.githubusercontent.com/53335754/98674521-f187ea80-237e-11eb-80ad-23c30568a619.png)
+![image](https://user-images.githubusercontent.com/53335754/98674829-62c79d80-237f-11eb-92cc-9f02d8b84399.png)
 
 
 3.Capturing email 
